@@ -1,2 +1,2 @@
 # rtson-native
-First native app for nostrrrrr
+First native app for nostr
